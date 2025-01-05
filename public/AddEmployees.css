@@ -1,0 +1,25 @@
+.nav-link
+{
+    background-color: rgb(109, 105, 105);
+}
+h2
+{
+    margin-top: 70px;
+}
+.addFormDiv
+{
+    width: 275px;
+    background-color:#7E5CAD;
+    text-align: center;
+}
+body
+{
+    background: linear-gradient(100deg,rgb(65, 194, 249),rgb(255, 255, 255));
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav-link:hover
+{
+    background-color: black;
+    color:white  !important;
+}

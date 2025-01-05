@@ -1,0 +1,52 @@
+.nav-link
+{
+    background-color: rgb(109, 105, 105);
+}
+body
+{
+    background: linear-gradient(100deg,rgb(65, 194, 249),rgb(255, 255, 255));
+    background-size: cover;
+    background-attachment: fixed;
+}
+.dtaTble
+{
+    background-color:#72BAA9;
+    margin-top: 30px;
+    border: 2px solid black;
+}
+th
+{
+    padding: 10px;
+}
+td
+{
+    padding: 10px;
+}
+h2{
+    margin-top: 60px;
+}
+.nav-link:hover
+{
+    background-color: black;
+    color:white  !important;
+}
+.upd
+{
+    background-color: rgb(189, 189, 47);
+    
+}
+.dele
+{
+    background-color: rgb(199, 72, 72);
+}
+.upd:hover
+{
+    background-color: rgb(252, 252, 0);
+    text-shadow: 2px 2px 4px black;
+    
+}
+.dele:hover
+{
+    background-color: rgb(227, 7, 7);
+    text-shadow: 2px 2px 4px black;
+}

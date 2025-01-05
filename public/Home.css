@@ -1,0 +1,23 @@
+h1
+{
+    font-family: "Rubik Vinyl", serif;
+    margin-top: 150px;
+    color: rgb(0, 0, 0);
+}
+body
+{
+    background: linear-gradient(100deg,rgb(65, 194, 249),rgb(255, 255, 255));
+    background-size: cover;
+    background-attachment: fixed;
+}
+  
+.nav-link
+{
+    background-color: rgb(109, 105, 105);
+}
+
+.nav-link:hover
+{
+    background-color: black;
+    color:white  !important;
+}
